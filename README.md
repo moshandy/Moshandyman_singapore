@@ -4,7 +4,8 @@
   <title>Mos Handyman Services</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: Arial; margin: 0; padding: 0; background: #f4f4f4; }
+    body { font-fam![1000042873](https://github.com/user-attachments/assets/add564ee-0df7-49bb-9d5d-63ae3ba4247b)
+ily: Arial; margin: 0; padding: 0; background: #f4f4f4; }
     header { background: #333; color: #fff; padding: 20px; text-align: center; }
     section { padding: 20px; }
     .card { background: #fff; padding: 15px; margin-bottom: 15px; border-radius: 5px; }
