@@ -31,9 +31,9 @@
 
   <div class="card">
     <h2>Contact Us</h2>
-    <p>📞 Phone / WhatsApp: +65 XXXXXXXX</p>
-    <p>📧 Email: your@email.com</p>
-    <a class="btn" href="https://wa.me/65XXXXXXXX">Chat on WhatsApp</a>
+    <p>📞 Phone / WhatsApp: +65 81503784</p>
+    <p>📧 Email: moshandymann@gmail.com.com</p>
+    <a class="btn" href="https://wa.me/6581503784>Chat on WhatsApp</a>
   </div>
 </section>
 
